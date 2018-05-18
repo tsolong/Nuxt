@@ -1,4 +1,4 @@
-#Nuxt服务端渲染
+# Nuxt服务端渲染
 
 npm install
 
