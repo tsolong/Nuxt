@@ -1,0 +1,27 @@
+{
+  "name": "nuxt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsolong/Nuxt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsolong/Nuxt/issues"
+  },
+  "homepage": "https://github.com/tsolong/Nuxt#readme",
+  "dependencies": {
+    "nuxt": "latest",
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+  }
+}
